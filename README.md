@@ -8,6 +8,10 @@ Works only with pasted image URLs and requires no server-side uploader.
 
 ![](assets/image-uploading.gif)
 
+## What's the news doc?
+
+- 1.4.1 merge issue #1 sosie-js-data-url-retrieval-img-cache-bug and add package info in the build
+
 ## Installation
 
 ### Install via NPM
